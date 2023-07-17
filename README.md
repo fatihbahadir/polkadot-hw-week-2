@@ -18,7 +18,7 @@ This is a simple calculator program written in Rust. It takes two numbers and an
 
 ## Example
 
-```
+```rust
 Enter the first number: 10
 Enter the operation you want to perform:
 1- Add
